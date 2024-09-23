@@ -1,15 +1,17 @@
 https://people.eecs.ku.edu/~b554s757/index.php
 
-- Designed and implemented a job listing website for employers and applicants using HTML, CSS, JavaScript, PHP, and MySQL.
-- Database-driven web application with a MySQL backend and PHP integration for data retrieval.
-- Includes a responsive and user-friendly interface that allows users to browse job listings and company information. Employers are able to post their job listings so that all applicants can see what is available.
-- Implemented SQL queries to retrieve foreign and shared keys such as applicant info and job listings.
-
 # Job Application System
 
 ## Purpose
 
 The Job Application System is a web application designed to facilitate the job application process. It allows users to register as either job applicants or employers (companies), view job listings, and apply for jobs. Employers can easily manage their job postings and view applicants.
+
+## Overview
+
+- Designed and implemented a job listing website for employers and applicants using HTML, CSS, JavaScript, PHP, and MySQL.
+- Database-driven web application with a MySQL backend and PHP integration for data retrieval.
+- Includes a responsive and user-friendly interface that allows users to browse job listings and company information. Employers are able to post their job listings so that all applicants can see what is available.
+- Implemented SQL queries to retrieve foreign and shared keys such as applicant info and job listings.
 
 ## Features
 
@@ -30,8 +32,3 @@ This project was developed using PHP for the backend and MySQL for data storage.
 
 The system implements secure user registration and login functionality, along with job application management features.
 
-## Conclusion
-
-The Job Application System provides a streamlined platform for job seekers and employers, enhancing the recruitment process through its user-friendly interface and efficient management tools.
-
-Feel free to explore the code and contribute to its improvement!
